@@ -11,7 +11,7 @@ width = 500
 height = 500
 screen_size = (width, height)
 screen = pygame.display.set_mode(screen_size)
-pygame.display.set_caption('Car Game')
+pygame.display.set_caption("Rele's Drive")
 
 
 #color
