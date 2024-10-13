@@ -7,7 +7,7 @@ Installation
 
     bash
 
-    git clone https://github.com/your-username/CarGame.git
+    git clone https://github.com/RelebogileYvette/CarGame.git
 
 Install the required dependency:
 
